@@ -1,0 +1,17 @@
+{
+  "description": "Right click on the network indicator to select wifi network.", 
+  "name": "Easy network selection", 
+  "shell-version": [
+    "3.14", 
+    "3.16", 
+    "3.18", 
+    "3.20", 
+    "3.22", 
+    "3.24", 
+    "3.26",
+    "3.28"
+  ], 
+  "url": "", 
+  "uuid": "easy-network-selection@maestroschan.fr", 
+  "version": 1
+}
